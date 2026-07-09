@@ -11,7 +11,6 @@
 - 📚 Currently improving my Data Structures & Algorithms skills
 - 🚀 Looking for internships and opportunities in Data Analytics
 
----
 
 ## 🌐 Connect With Me
 
@@ -31,7 +30,6 @@
 
 </p>
 
----
 
 ## 💻 Languages & Tools
 
