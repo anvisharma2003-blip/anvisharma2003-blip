@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anvi Sharma</h1>
 <h3 align="center">Aspiring Data Analyst | Python Enthusiast | MCA Student from India 🇮🇳</h3>
 
-<p align="center">
-<img src="YOUR_BANNER_LINK_HERE" width="100%" alt="Banner"/>
-</p>
-
----
 
 ## 👩‍💻 About Me
 
@@ -64,21 +59,7 @@
 - Data Visualization
 - Database Management System
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anvisharma2003-blip&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anvisharma2003-blip&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvisharma2003-blip&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ## ✨ Quote
 
